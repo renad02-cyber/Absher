@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Info -->
+    <string name="app_name">أبشر</string>
+    <string name="app_subtitle">المنصة الوطنية الموحدة للخدمات الحكومية</string>
+    
+    <!-- Welcome Screen -->
+    <string name="welcome_title">مرحباً بك في أبشر</string>
+    <string name="welcome_subtitle">ابدأ الآن</string>
+    <string name="welcome_description">قم بتسجيل الدخول أو إنشاء حساب جديد للوصول إلى جميع الخدمات الحكومية</string>
+    
+    <!-- Login -->
+    <string name="login_title">تسجيل الدخول إلى أبشر</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="logout">تسجيل خروج</string>
+    <string name="loading">جاري التحميل...</string>
+    <string name="error">خطأ</string>
+    <string name="back">رجوع</string>
+    
+    <!-- Register -->
+    <string name="register">إنشاء حساب جديد</string>
+    <string name="register_title">إنشاء حساب</string>
+    <string name="register_subtitle">أدخل بياناتك لإنشاء حساب جديد</string>
+    <string name="continue_text">متابعة</string>
+    <string name="already_have_account">لديك حساب؟ تسجيل الدخول</string>
+    
+    <!-- User Types -->
+    <string name="user_type_title">نوع المستخدم</string>
+    <string name="type_individual">أفراد</string>
+    <string name="type_business">أعمال</string>
+    <string name="type_government">حكومة</string>
+    
+    <!-- Form Fields -->
+    <string name="username_label">اسم المستخدم أو رقم الهوية</string>
+    <string name="username_placeholder">أدخل اسم المستخدم أو رقم الهوية</string>
+    <string name="password_label">كلمة المرور</string>
+    <string name="password_placeholder">أدخل كلمة المرور</string>
+    <string name="keep_logged_in">عدم تسجيل الخروج</string>
+    <string name="app_lock_hint">فعّل قفل التطبيق من خلال الإعدادات على هاتفك للتمكن من تفعيل هذا الخيار</string>
+    <string name="forgot_password">نسيت كلمة المرور</string>
+    <string name="login_error_empty">الرجاء إدخال رقم الهوية وكلمة المرور</string>
+    <string name="login_error_failed">بيانات الدخول غير صحيحة</string>
+    
+    <string name="id_number">رقم الهوية</string>
+    <string name="enter_id_number">أدخل رقم الهوية</string>
+    <string name="phone_number">رقم الجوال</string>
+    <string name="enter_phone">05XXXXXXXX</string>
+    <string name="email">البريد الإلكتروني</string>
+    <string name="enter_email">example@email.com</string>
+    
+    <!-- Home Screen -->
+    <string name="home_title">الرئيسية</string>
+    <string name="services_tab">الخدمات</string>
+    <string name="notifications_tab">الإشعارات</string>
+    <string name="my_data_title">بياناتي</string>
+    <string name="view_all">عرض الكل</string>
+    <string name="services_title">الخدمات الإلكترونية</string>
+    
+    <!-- Profile -->
+    <string name="welcome">مرحباً بك</string>
+    <string name="status">الحالة</string>
+    <string name="status_active">نشط</string>
+    <string name="last_login">آخر دخول</string>
+    <string name="today">اليوم</string>
+    
+    <!-- Services -->
+    <string name="passport_services">خدمات جوازات السفر</string>
+    <string name="civil_affairs">الأحوال المدنية</string>
+    <string name="traffic_services">خدمات المرور</string>
+    <string name="appointment_booking">المواعيد</string>
+    <string name="dependents">التابعين</string>
+    <string name="visa_services">خدمات التأشيرات</string>
+    <string name="sponsorship_transfer">نقل الكفالة</string>
+    <string name="certificates">الشهادات</string>
+    <string name="inquiries">الاستعلامات</string>
+    <string name="reports">التقارير</string>
+    <string name="security_services">الخدمات الأمنية</string>
+    
+    <!-- Quick Actions -->
+    <string name="national_id">الهوية الوطنية</string>
+    <string name="vehicles">المركبات</string>
+    <string name="passports">جوازات السفر</string>
+    
+    <!-- Personal Info -->
+    <string name="personal_info">المعلومات الشخصية</string>
+    <string name="id_card">بطاقة الهوية</string>
+    <string name="passport">جواز السفر</string>
+    <string name="violations">المخالفات</string>
+    <string name="no_violations">لا توجد مخالفات</string>
+    <string name="violations_status_clean">حالة المخالفات: نظيف</string>
+    <string name="insurance">التأمين</string>
+    
+    <!-- Status -->
+    <string name="expires_on">ينتهي في:</string>
+    <string name="status_valid">ساري</string>
+    <string name="status_expired">منتهي</string>
+    <string name="status_pending">قيد المعالجة</string>
+    <string name="status_new">جديد</string>
+    
+    <!-- Dialogs -->
+    <string name="confirm_logout">هل تريد تسجيل الخروج؟</string>
+    <string name="yes">نعم</string>
+    <string name="no">لا</string>
+    <string name="cancel">إلغاء</string>
+    
+    <!-- Footer -->
+    <string name="copyright">© 2024 وزارة الداخلية - المملكة العربية السعودية</string>
+</resources>

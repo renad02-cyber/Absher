@@ -1,0 +1,5 @@
+TEAM_ID=
+BUNDLE_ID=sa.gov.absher
+APP_NAME=Absher
+PRODUCT_NAME=Absher
+PRODUCT_BUNDLE_IDENTIFIER=sa.gov.absher$(TEAM_ID)
